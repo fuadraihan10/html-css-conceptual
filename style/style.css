@@ -35,8 +35,15 @@ h1{
     margin: 1px;
     margin : 10px;
     font-family: "JetBrains Mono", monospace;
+
     
 
+}
+.btn:hover{
+    background-color: rgba(0, 0, 0, 0.616);
+    color: white;
+    transition: 0.5s;
+    cursor: pointer;
 }
 .btn_parent{
     text-align: center;
