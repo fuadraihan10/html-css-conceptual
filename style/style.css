@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: Arial, sans-serif;
+    text-decoration: underline;
+    font-size: 50px;
+    text-align: center;
+}
+#heading-parent{
+    background: rgba(255, 0, 0, 0.159);
+    height :600px;
+    padding: 100px 0;
+    width: 600px;
+    margin: 30px auto;
+}
